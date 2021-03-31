@@ -24,3 +24,14 @@ Icon^M
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Adding rule to not accidentally publish your PGP/GPG private keys.
+secring.*
+
+# 
+
+*.bak
+*.gho
+*.ori
+*.orig
+*.tmp
